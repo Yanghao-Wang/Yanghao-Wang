@@ -1,11 +1,7 @@
-# Hi there👋
-
-🤗 Hello! I am Yanghao Wang.
-
-👨‍💻‍ I am a Ph.D. candidate of [LONG Group](https://long-group.cse.ust.hk/), HKUST, fortunately advised by Professor [Long Chen](https://zjuchenlong.github.io/).
+👋 Hello! I am Yanghao Wang, a Ph.D. candidate of [LONG Group](https://long-group.cse.ust.hk/), HKUST, fortunately advised by Professor [Long Chen](https://zjuchenlong.github.io/).
 
 🔍 My current research mainly focuses on **Visual Generative Models** and related applications, especially **Video Generation** and **World Model**.
 
-🎓 I obtained the M.S. and B.S. degrees from [NTU (Singapore)](https://www.ntu.edu.sg/) and [Sichuan University](https://www.scu.edu.cn/), respectively.
+🎓 I obtained the M.S. and B.S. degrees from [NTU (Singapore)](https://www.ntu.edu.sg/) and [Sichuan University](https://www.scu.edu.cn/), respectively. Besides, I am fortunate to have internships at [WeChat](https://www.tencent.com/en-us/) and [TikTok](https://www.tiktok.com/about?lang=en).
 
 📫 How to reach me: ywangtg@connect.ust.hk  
