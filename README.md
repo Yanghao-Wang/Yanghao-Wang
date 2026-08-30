@@ -2,7 +2,7 @@
 
 🎓 I obtained the M.S. and B.S. degrees from [NTU (Singapore)](https://www.ntu.edu.sg/) and [Sichuan University](https://www.scu.edu.cn/), respectively.
 
-🔧 I am fortunate to have internships at [Tencent WXG](https://www.tencent.com/en-us/) and [ByteDance TikTok](https://www.tiktok.com/about?lang=en).
+<!-- 🔧 I am fortunate to have internships at [Tencent WXG](https://www.tencent.com/en-us/) and [ByteDance TikTok](https://www.tiktok.com/about?lang=en). -->
 
 🧐 My current research focuses on **Visual Generative Models** and related applications, especially the **Video Generation** and **World Models**.
 
