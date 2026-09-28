@@ -8,7 +8,7 @@
 
 **Recent projects:** 
 - [**[Arxiv 2026] LISA**: Likelihood Score Alignment for Visual-condition Controllable Generation.](https://arxiv.org/pdf/2606.27192)
-- [**[Arxiv 2026] CGG**: Coarse-Guided Visual Generation via Weighted h-Transform Sampling.](https://arxiv.org/pdf/2603.12057)
+- [**[Arxiv 2026] CGG**: Adaptive Weighted h-Transform Sampling for Coarse-Guided Visual Generation.](https://arxiv.org/pdf/2603.12057)
 - [**[ECCV 2026] FlowCycle**: Target-aware Image Editing via Cycle-consistent Constraints.](https://arxiv.org/pdf/2510.20212)
 
 📑 Full publications: [Google Scholar](https://scholar.google.com/citations?user=9b4pqgwAAAAJ&hl=en)
